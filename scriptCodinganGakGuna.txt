@@ -1,0 +1,439 @@
+ <!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="image-size d-block">
+                    <img src="image/ladingpage3.png" alt="">
+                </div>
+                <div class="carousel-caption">
+                    <div class="jumbotron jumbotron-fluid">
+                        <div class="container">
+                            <div class="row header">
+                                <div class="col-md-8 col-sm-12 col-12 d-flex flex-column d-flex flex-column">
+                                    <div class="text-header">
+                                        <h1>BOX STYROFOAM ?</h1>
+                                        <h1>KERANJANG FREEZER? ?</h1>
+                                        <h1>ICE PACK?</h1>
+                                    </div>
+                                    <div class="text-header2">
+                                        <h2>Ada kok di <b class="text-warning">B-Store</b></h2>
+                                    </div>
+                                    <div class="button-header d-flex flex-wrap">
+                                        <button type="button" class="btn btn-warning mr-3 btn-lg mb-3">Go to shop <i class="far fa-hand-pointer fa-lg ml-2"></i> </button>
+                                     
+                                    </div>
+                                </div>
+                                <div class="col-md-2 col-sm-12 col-12 d-none d-sm-block">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="image-size d-block">
+                    <img src="image/ladingpage5.png" alt="">
+                </div>
+                <div class="carousel-caption">
+                    <div class="jumbotron jumbotron-fluid">
+                        <div class="container">
+                            <div class="row header">
+                                <div class="col-md-11 col-sm-12 col-12 d-flex flex-column d-flex flex-column">
+                                    <div class="text-header">
+                                        <h1>Tinggal Packing.</h1>
+                                        <h1>Tinggal Deleviry.</h1>
+                                        <h1>Tinggal Storage.</h1>
+                                    </div>
+                                    <div class="text-header2">
+                                        <h2>Specialist <b class="text-warning">Keranjang & Box</b></h2>
+                                    </div>
+                                    <div class="button-header d-flex flex-wrap">
+                                        <button type="button" class="btn btn-warning mr-3 btn-lg button-shop">Go to shop <i class="far fa-hand-pointer fa-lg ml-2"></i></button>
+                                        <button type="button" class="btn btn-success text-white btn-lg">Hubungi Kami<i class="far fa-hand-pointer fa-lg ml-2"></i></button>
+                                    </div>
+                                </div>
+                                <div class="col-md-1 col-sm-12 col-12 d-none d-sm-block">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="image-size d-block">
+                    <img src="image/ladingpage4.png" alt="">
+                </div>
+                <div class="carousel-caption">
+                    <div class="jumbotron jumbotron-fluid">
+                        <div class="container">
+                            <div class="row header">
+                                <div class="col-md-11 col-sm-12 col-12 d-flex flex-column d-flex flex-column">
+                                    <div class="text-header">
+                                        <h1>Ribet mau packing.</h1>
+                                        <h1>Gak ada tempat.</h1>
+                                        <h1>Susah bawanya.</h1>
+                                    </div>
+                                    <div class="text-header2">
+                                        <h2>Pake <b class="text-warning">styrofoam</b> aja.</h2>
+                                    </div>
+                                    <div class="button-header d-flex flex-wrap">
+                                        <button type="button" class="btn btn-warning mr-3 btn-lg button-shop">Go to shop <i class="far fa-hand-pointer fa-lg ml-2"></i></button>
+                                        <button type="button" class="btn btn-success text-white btn-lg">Hubungi Kami<i class="far fa-hand-pointer fa-lg ml-2"></i></button>
+                                    </div>
+                                </div>
+                                <div class="col-md-1 col-sm-12 col-12 d-none d-sm-block">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div> -->
+    <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a> -->
+    <!-- </div> -->
+
+
+<------------------------ Barang Slider ------------------------------>
+
+
+    <!-- <section id="about" class="area-about">
+            <div class="about-decor">
+                <div class="about-circle1"> </div>
+                <div class="about-circle2"> </div>
+            </div>
+            <div class=" container">
+                <div class="row about-about">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="image-phone">
+                            <img src="image/hanphone (1).png" class="img-fluid" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 d-flex flex-wrap flex-column text-content">
+                        <div class="title-content">
+                            <h1>B-Store</h1>
+                        </div>
+                        <div class="title-text">
+                            <p>Online Shop kami yang menjual barang-barang 100% asli bla bla bla</p>
+                        </div>
+                        <div class="title-point">
+                            <p><i class="fas fa-glasses mr-3 fa-lg"></i>User Friendly</p>
+                            <p><i class="fab fa-product-hunt mr-3 fa-lg"></i>Produk Kami dari barang berkualitas</p>
+                            <p><i class="fas fa-user-friends mr-3 fa-lg"></i>24 X 7 Support</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+    <!-- <section id="barang-slider" class="barang-slider">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2 class="barang-title">BEST <span>SELLER</span></h2>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="owl-barang owl-carousel owl-theme">
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/box.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/boox.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/Depan.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/booox.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/Ice Pack Medium.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/Ice Pack Regular.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/Ultra Cool.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/Ice Pack Regular.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="barang-image-size">
+                                    <img src="image/produk/Bubble Warp Hitam.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section> -->
+
+
+    <!-- 
+        <section id="barang" class="area-barang py-5 bg-light">
+            <div class="container-fluid">
+                <div class="text-center">
+                    <div class="title-content">
+                        <h1>Highlight Produk</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 jarak-gambar">
+                        <a href="" class="link-link">
+                            <div class="img-ukuran">
+                                <img class="img-box" src="image/produk/Group 13.png" alt="">
+                                <div class="caption-gambar">
+                                    <h1 class="caption-title">Keranjang Freezer</h1>
+                                    <h4 class="caption-text">Dengan bahan yang berkualitas</h4>
+                                    <a class="caption-link" href="">Go to shop <i class="fas fa-chevron-right fa-sm"></i></a>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 jarak-gambar">
+                        <a href="" class="link-link">
+                            <div class="img-ukuran">
+                                <img class="img-box" src="image/produk/boxx.png" alt="">
+                                <div class="caption-gambar">
+                                    <h1 class="caption-title">Styrofoam</h1>
+                                    <h4 class="caption-text">Mudahkan anda mempacking</h4>
+                                    <a class="caption-link" href="">Go to shop<i class="fas fa-chevron-right fa-sm ml-2"></i></a>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 jarak-gambar">
+                        <a href="" class="link-link">
+                            <div class="img-ukuran">
+                                <img class="img-box" src="image/produk/ice.png" alt="">
+                                <div class="caption-gambar">
+                                    <h1 class="caption-title">Ultra Cool</h1>
+                                    <h4 class="caption-text">Membuat tetap dingin</h4>
+                                    <a class="caption-link" href="">Go to shop<i class="fas fa-chevron-right fa-sm ml-2"></i></a>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 jarak-gambar">
+                        <a href="" class="link-link">
+                            <div class="img-ukuran">
+                                <img class="img-box" src="image/produk/bubble.png" alt="">
+                                <div class="caption-gambar">
+                                    <h1 class="caption-title">Bubble Wrap</h1>
+                                    <h4 class="caption-text">Amankan barang anda</h4>
+                                    <a class="caption-link" href="">Go to shop<i class="fas fa-chevron-right fa-sm ml-2"></i></a>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+    <!-- <section id="fitur" class="py-5">
+        <div class="container">
+            <div class="text-center">
+                <div class="title-content">
+                    <h1>Features</h1>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-3">
+                    <div class="card text-center border-primary mb-resp">
+                        <div class="card-body">
+                            <i class="fas fa-database fa-3x mb-2 text-primary"></i>
+                            <h3 class="text-primary">---</h3>
+                            <p class="text-muted">Karna bahan baku nya yang original dari buah asli tanpa bahan pengawet.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-center border-primary mb-resp">
+                        <div class="card-body">
+                            <i class="fas fa-database fa-3x mb-2 text-primary"></i>
+                            <h3 class="text-primary">---</h3>
+                            <p class="text-muted">Karna bahan baku nya yang original dari buah asli tanpa bahan pengawet.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-center border-primary mb-resp">
+                        <div class="card-body">
+                            <i class="fas fa-database fa-3x mb-2 text-primary"></i>
+                            <h3 class="text-primary">---</h3>
+                            <p class="text-muted">Karna bahan baku nya yang original dari buah asli tanpa bahan pengawet.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-center border-primary mb-resp">
+                        <div class="card-body">
+                            <i class="fas fa-database fa-3x mb-2 text-primary"></i>
+                            <h3 class="text-primary">---</h3>
+                            <p class="text-muted">Karna bahan baku nya yang original dari buah asli tanpa bahan pengawet.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <!-- <section id="modul" class="py-4 bg-light">
+        <div class="image-size-ipad d-flex flex-wrap">
+            <img class="img-ipad" src="image/ipad.png" alt="">
+            <div class="modul-text d-flex align-items-center mx-auto">
+                <div class="modul-title">
+                    <h1>
+                        Dapatkan Dukungan Dari Ahlinya
+                    </h1>
+                    <div class="d-flex flex-wrap">
+                        <h4 class="modul-point d-flex flex-column">
+                            <b>2</b>
+                            <span>Tahun</span>
+                        </h4>
+                        <h4 class="modul-point d-flex flex-column">
+                            <b>150</b>
+                            <span>Product </span>
+                        </h4>
+                        <h4 class="modul-point d-flex flex-column">
+                            <b>24</b>
+                            <span>Tahun</span>
+                        </h4>
+                        <h4 class="modul-point d-flex flex-column">
+                            <b>500M+</b>
+                            <span>Total Transaksi</span>
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!-- 
+        <section id="testimoni" class="py-4 border border-danger">
+            <div class="container">
+
+            </div>
+        </section> -->
+
+
+
+        <---------------------------------------------------- BERITA ---------------------------------->
+
+        
+    <!-- <section id="berita" class="area-berita">
+        <div class="container">
+            <div class="title-berita d-flex">
+                <h1><span style="color: #59befb;">Artikel</span> Lainya</h1>
+                <a href="" class="ml-auto d-flex align-items-center">Buka Halaman <i class="fas fa-long-arrow-alt-right mt-1 fa-lg"></i></a>
+            </div>
+            <div class="owl-berita owl-carousel owl-theme">
+                <div class="item">
+                    <div class="card image-card">
+                        <div class="image-potong">
+                            <img class="card-img-top" src="image/berita/kulkas.jpg" alt="Card image cap">
+                        </div>
+                        <a href="" class="card-body body-custom">
+                            <span class="berita-date">EDUCATIONAL SERIES</span>
+                            <h5 class="card-title">4 Tips Mudah Cegah Kulkas Bau!</h5>
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card image-card">
+                        <div class="image-potong">
+                            <img class="card-img-top" src="image/berita/kulkas2.jpg" alt="Card image cap">
+                        </div>
+                        <a href="" class="card-body body-custom">
+                            <span class="berita-date">EDUCATIONAL SERIES</span>
+                            <h5 class="card-title">KATA SIAPA CHEST FREEZER BIKIN BOROS LISTRIK? CEK YANG SATU INI!</h5>
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card image-card">
+                        <div class="image-potong">
+                            <img class="card-img-top" src="image/berita/kulkas3.jpg" alt="Card image cap">
+                        </div>
+                        <a href="" class="card-body body-custom">
+                            <span class="berita-date">EDUCATIONAL SERIES</span>
+                            <h5 class="card-title">INI DIA ALASAN HARUS PUNYA CHEST FREEZER DI RUMAH!</h5>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        Berita Mobile
+        <div class="mobile-berita">
+            <div class="title-berita d-flex">
+                <h1><span style="color: #59befb;">Artikel</span> Lainya</h1>
+            </div>
+            <div class="owl-berita owl-carousel owl-theme">
+                <div class="item mobile-card">
+                    <div class="card image-card">
+                        <div class="image-potong">
+                            <img class="card-img-top" src="image/berita/kulkas.jpg" alt="Card image cap">
+                        </div>
+                        <a href="" class="card-body body-custom">
+                            <span class="berita-date">EDUCATIONAL SERIES</span>
+                            <h5 class="card-title">4 Tips Mudah Cegah Kulkas Bau!</h5>
+                        </a>
+                    </div>
+                </div>
+                <div class="item mobile-card">
+                    <div class="card image-card">
+                        <div class="image-potong">
+                            <img class="card-img-top" src="image/berita/kulkas2.jpg" alt="Card image cap">
+                        </div>
+                        <a href="" class="card-body body-custom">
+                            <span class="berita-date">EDUCATIONAL SERIES</span>
+                            <h5 class="card-title">KATA SIAPA CHEST FREEZER BIKIN BOROS LISTRIK? CEK YANG SATU INI!</h5>
+                        </a>
+                    </div>
+                </div>
+                <div class="item mobile-card">
+                    <div class="card image-card">
+                        <div class="image-potong">
+                            <img class="card-img-top" src="image/berita/kulkas3.jpg" alt="Card image cap">
+                        </div>
+                        <a href="" class="card-body body-custom">
+                            <span class="berita-date">EDUCATIONAL SERIES</span>
+                            <h5 class="card-title">INI DIA ALASAN HARUS PUNYA CHEST FREEZER DI RUMAH!</h5>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
